@@ -1,5 +1,7 @@
 # OnlineResearchPrjoect
 
+[Ver el PDF](./OnlineResearchProject.pdf)
+
 The NBA (National Basketball Association, played in the USA) is the most important
 basketball league in the world, having more than 10 million viewers at its peak, not only
 from the United States, but also from different countries around the world. However, this
